@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponPanel", "WeaponPanel\WeaponPanel.csproj", "{1B44B21A-E2D2-4B03-823B-4BAEF1BE7B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "God_N_Gunz", "God_N_Gunz\God_N_Gunz.csproj", "{DA4AA018-1EC9-4972-BEDF-150581EF1557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B44B21A-E2D2-4B03-823B-4BAEF1BE7B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B44B21A-E2D2-4B03-823B-4BAEF1BE7B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B44B21A-E2D2-4B03-823B-4BAEF1BE7B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B44B21A-E2D2-4B03-823B-4BAEF1BE7B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4AA018-1EC9-4972-BEDF-150581EF1557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4AA018-1EC9-4972-BEDF-150581EF1557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4AA018-1EC9-4972-BEDF-150581EF1557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4AA018-1EC9-4972-BEDF-150581EF1557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25798A1E-2754-427E-AE3B-D8DBFE494115}
+	EndGlobalSection
+EndGlobal

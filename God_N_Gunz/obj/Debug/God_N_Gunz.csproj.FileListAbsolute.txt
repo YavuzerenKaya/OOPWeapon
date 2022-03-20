@@ -1,0 +1,6 @@
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\God_N_Gunz\bin\Debug\God_N_Gunz.dll
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\God_N_Gunz\bin\Debug\God_N_Gunz.pdb
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\God_N_Gunz\obj\Debug\God_N_Gunz.csproj.AssemblyReference.cache
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\God_N_Gunz\obj\Debug\God_N_Gunz.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\God_N_Gunz\obj\Debug\God_N_Gunz.dll
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\God_N_Gunz\obj\Debug\God_N_Gunz.pdb

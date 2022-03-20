@@ -1,0 +1,13 @@
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\bin\Debug\WeaponPanel.exe.config
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\bin\Debug\WeaponPanel.exe
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\bin\Debug\WeaponPanel.pdb
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\bin\Debug\God_N_Gunz.dll
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\bin\Debug\God_N_Gunz.pdb
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\obj\Debug\WeaponPanel.csproj.AssemblyReference.cache
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\obj\Debug\WeaponPanel.Form1.resources
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\obj\Debug\WeaponPanel.Properties.Resources.resources
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\obj\Debug\WeaponPanel.csproj.GenerateResource.cache
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\obj\Debug\WeaponPanel.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\obj\Debug\WeaponPanel.csproj.CopyComplete
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\obj\Debug\WeaponPanel.exe
+C:\Users\yavuz\source\repos\OOP_WeaponProjeTekrar_12_01_2022\WeaponPanel\obj\Debug\WeaponPanel.pdb
